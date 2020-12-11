@@ -5,7 +5,7 @@ li {
 
 header{
     height:100px;
-    /* border-bottom:1px solid #777; */
+     border-bottom:1px solid #777; 
 }
 
 main{
@@ -217,7 +217,7 @@ nav {
     height: 200px;
 }
 #boxytwo{
-    background-color: red;
+    background-color: pink;
     color:white;
     width: 300px;
     height: 200px;
