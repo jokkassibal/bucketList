@@ -9,7 +9,6 @@ header{
 }
 
 main{
-
     background-color: white;
 }
 .video{
@@ -91,7 +90,7 @@ main{
 
 
 footer{
-    background: rgb(0,18,83);
+    background: red;
     padding: 30px 0;
     height: 530px;
 
@@ -229,14 +228,14 @@ nav {
     height: 200px;
 }
 #boxytwo{
-    background-color: black;
+    background-color: red;
     color:white;
     width: 300px;
     height: 200px;
 }
 
 #boxythree{
-    background-color: blue;
+    background-color: pink;
     color:white;
     width: 300px;
     height: 200px;
@@ -252,7 +251,7 @@ nav {
     flex-direction: column;
     justify-content: center;
     margin: 60px;
-    color: black;
+    color: pink;
     /* border-bottom: 1px gray solid ; */
 }
 
@@ -261,7 +260,7 @@ nav {
    /* background-color: blue; */
     padding: 10px;
     height: 30px;
-    border-bottom: 1px gray solid ;
+    border-bottom: 1px red ;
 }
 span{
     color:gray;
