@@ -17,18 +17,12 @@ main{
 }
 
 .boxynews{
-
     background-color: rgb(209, 209, 209);
-
-
-   position: relative;
-
-   height: 1200px;
-
+    position: relative;
+    height: 1200px;
 }
 
 .boxynewsgroup{
-
     display: flex;
     /* background-color: red; */
     margin: auto;
@@ -37,7 +31,6 @@ main{
     justify-content: center;
     height: 800px;
    /* width: 1024px; */
-
 }
 
 .boxnews1{
@@ -46,7 +39,6 @@ main{
     margin: 60px 10px;
     height: 150px;
     border: 1px solid gray;
-
 }
 
 .boxnews2{
@@ -93,15 +85,11 @@ footer{
     background: red;
     padding: 30px 0;
     height: 530px;
-
-
 }
 
 .inner-container{
-
     width: 1024px;
     margin: 0 auto;
-
     position: relative;
 }
 nav {
@@ -216,14 +204,15 @@ nav {
 
 .boxy{
     display: flex;
-    /* background-color: red; */
+    background-color: red; 
 
     justify-content: center;
 
 }
 
 #boxyone{
-    color:white;
+    background-color:red;
+    color: white;
     width: 300px;
     height: 200px;
 }
@@ -235,7 +224,7 @@ nav {
 }
 
 #boxythree{
-    background-color: pink;
+    background-color: red;
     color:white;
     width: 300px;
     height: 200px;
@@ -315,7 +304,7 @@ html[data-ie-ver="8"] select,
 html[data-ie-ver="9"] select {
 	padding-left:0;
 	padding-right:0;
-	background:none;
+	background:red;
 }
 
 input[type="password"] {
@@ -370,7 +359,7 @@ ol, ul {
 hr {
 	border:0;
 	height:1px;
-	background:#ddd;
+	background:red;
 }
 
 label {
